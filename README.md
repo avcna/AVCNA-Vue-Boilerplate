@@ -9,6 +9,14 @@ Tech stacks used:
 - Pinia
 - Prettier (Auto save)
 
+# How to Use:
+1. Run this in your project terminal `git clone https://github.com/avcna/AVCNA-Vue-Boilerplate.git`
+2. Open the folder and run `npm install`
+3. To start the project, run `npm run dev`
+4. You're all set :)
+
+# Dont forget to leave a star ⭐
+
 
 # Vue 3 + TypeScript + Vite
 
